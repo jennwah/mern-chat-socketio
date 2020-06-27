@@ -21,3 +21,5 @@ This is a MERN chat app with socket.io. Redux is also implemented for global sta
 2) Add individual personal chat with other users
 
 This is a basic MERN full stack chat app with socket.io project. 
+
+I have uploaded a 2-min app demon on youtube [here](https://www.youtube.com/watch?v=kiDsjyUqsW0)
