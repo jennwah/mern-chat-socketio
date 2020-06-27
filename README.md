@@ -13,4 +13,4 @@ module.exports = {
   mongoURI: //your mongoURI here
 }
 
-This is a MERN chat app with socket.io. Redux is also implemented for global state management. AntD design is used for styling. Refer to (here)[https://ant.design/docs/react/introduce] for more.
+This is a MERN chat app with socket.io. Redux is also implemented for global state management. AntD design is used for styling. Refer to [here](https://ant.design/docs/react/introduce) for more.
