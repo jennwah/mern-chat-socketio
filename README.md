@@ -14,3 +14,10 @@ module.exports = {
 }
 
 This is a MERN chat app with socket.io. Redux is also implemented for global state management. AntD design is used for styling. Refer to [here](https://ant.design/docs/react/introduce) for more.
+
+
+## Features to be added: 
+1) Add chatroom features ( for now, theres only one chatroom for all users haha)
+2) Add individual personal chat with other users
+
+This is a basic MERN full stack chat app with socket.io project. 
